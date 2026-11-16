@@ -1,0 +1,1 @@
+COPY diamantes TO 'C:/ruta_de_tu_carpeta/diamantes_optimizados.parquet' (FORMAT PARQUET);
